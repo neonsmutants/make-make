@@ -1,0 +1,123 @@
+fileFormatVersion: 2
+guid: edeb535bdbf9dfa41ba1961d3b6ee465
+timeCreated: 1426177667
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: crystals12Main
+    100002: pasted__crystals10Main
+    100004: pasted__crystals1Main
+    100006: pasted__crystals2Main
+    100008: pasted__crystals3Main
+    100010: pasted__crystals4Main
+    100012: pasted__crystals5Main
+    100014: pasted__crystals6Main
+    100016: pasted__crystals7Main
+    100018: pasted__crystals9Main
+    100020: pPipe1
+    100022: //RootNode
+    400000: crystals12Main
+    400002: pasted__crystals10Main
+    400004: pasted__crystals1Main
+    400006: pasted__crystals2Main
+    400008: pasted__crystals3Main
+    400010: pasted__crystals4Main
+    400012: pasted__crystals5Main
+    400014: pasted__crystals6Main
+    400016: pasted__crystals7Main
+    400018: pasted__crystals9Main
+    400020: pPipe1
+    400022: //RootNode
+    2300000: crystals12Main
+    2300002: pasted__crystals10Main
+    2300004: pasted__crystals1Main
+    2300006: pasted__crystals2Main
+    2300008: pasted__crystals3Main
+    2300010: pasted__crystals4Main
+    2300012: pasted__crystals5Main
+    2300014: pasted__crystals6Main
+    2300016: pasted__crystals7Main
+    2300018: pasted__crystals9Main
+    2300020: pPipe1
+    3300000: crystals12Main
+    3300002: pasted__crystals10Main
+    3300004: pasted__crystals1Main
+    3300006: pasted__crystals2Main
+    3300008: pasted__crystals3Main
+    3300010: pasted__crystals4Main
+    3300012: pasted__crystals5Main
+    3300014: pasted__crystals6Main
+    3300016: pasted__crystals7Main
+    3300018: pasted__crystals9Main
+    3300020: pPipe1
+    4300000: pPipe1
+    4300002: pasted__crystals1Main
+    4300004: pasted__crystals2Main
+    4300006: pasted__crystals3Main
+    4300008: pasted__crystals4Main
+    4300010: pasted__crystals5Main
+    4300012: pasted__crystals6Main
+    4300014: pasted__crystals7Main
+    4300016: pasted__crystals9Main
+    4300018: pasted__crystals10Main
+    4300020: crystals12Main
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,180 @@
+fileFormatVersion: 2
+guid: d2dbdb879f7330a409b3eec1151b4018
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: back
+    100004: body1
+    100006: body:brain
+    100008: body:head
+    100010: body:masca
+    100012: body:mmGroup0
+    100014: body:mmGroup4
+    100016: body:sim
+    100018: earing_left
+    100020: earing_right
+    100022: face
+    100024: nosering
+    100026: polySurface1
+    100028: polySurface1 1
+    100030: polySurface3
+    100032: polySurface3 1
+    100034: polySurface4
+    100036: polySurface4 1
+    100038: polySurface5
+    100040: polySurface6
+    100042: pCylinder1
+    100044: pCylinder2
+    100046: pCylinder3
+    100048: pCylinder4
+    100050: pCylinder6
+    100052: pCylinder7
+    100054: brain
+    100056: head
+    100058: masca
+    400000: //RootNode
+    400002: back
+    400004: body1
+    400006: body:brain
+    400008: body:head
+    400010: body:masca
+    400012: body:mmGroup0
+    400014: body:mmGroup4
+    400016: body:sim
+    400018: earing_left
+    400020: earing_right
+    400022: face
+    400024: nosering
+    400026: polySurface1
+    400028: polySurface1 1
+    400030: polySurface3
+    400032: polySurface3 1
+    400034: polySurface4
+    400036: polySurface4 1
+    400038: polySurface5
+    400040: polySurface6
+    400042: pCylinder1
+    400044: pCylinder2
+    400046: pCylinder3
+    400048: pCylinder4
+    400050: pCylinder6
+    400052: pCylinder7
+    400054: brain
+    400056: head
+    400058: masca
+    2300000: body:brain
+    2300002: body:mmGroup0
+    2300004: body:mmGroup4
+    2300006: body:sim
+    2300008: nosering
+    2300010: polySurface1
+    2300012: polySurface1 1
+    2300014: polySurface3
+    2300016: polySurface3 1
+    2300018: polySurface4
+    2300020: polySurface4 1
+    2300022: polySurface5
+    2300024: polySurface6
+    2300026: pCylinder1
+    2300028: pCylinder2
+    2300030: pCylinder3
+    2300032: pCylinder4
+    2300034: pCylinder6
+    2300036: pCylinder7
+    2300038: brain
+    3300000: body:brain
+    3300002: body:mmGroup0
+    3300004: body:mmGroup4
+    3300006: body:sim
+    3300008: nosering
+    3300010: polySurface1
+    3300012: polySurface1 1
+    3300014: polySurface3
+    3300016: polySurface3 1
+    3300018: polySurface4
+    3300020: polySurface4 1
+    3300022: polySurface5
+    3300024: polySurface6
+    3300026: pCylinder1
+    3300028: pCylinder2
+    3300030: pCylinder3
+    3300032: pCylinder4
+    3300034: pCylinder6
+    3300036: pCylinder7
+    3300038: brain
+    4300000: body:mmGroup0
+    4300002: body:mmGroup4
+    4300004: body:brain
+    4300006: body:sim
+    4300008: polySurface5
+    4300010: polySurface6
+    4300012: nosering
+    4300014: polySurface1
+    4300016: polySurface3
+    4300018: polySurface4
+    4300020: polySurface1
+    4300022: polySurface3
+    4300024: polySurface4
+    4300026: pCylinder1
+    4300028: pCylinder2
+    4300030: pCylinder3
+    4300032: pCylinder4
+    4300034: pCylinder6
+    4300036: pCylinder7
+    4300038: brain
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
